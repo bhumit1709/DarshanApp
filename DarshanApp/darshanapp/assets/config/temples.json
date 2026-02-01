@@ -1,0 +1,75 @@
+{
+    "version": 1,
+    "temples": [
+        {
+            "id": "t_001",
+            "name": "Kashi Vishwanath",
+            "location": "Varanasi, UP",
+            "description": "One of the 12 Jyotirlingas, the holiest of Shiva temples.",
+            "image_asset": "assets/images/kashi.png",
+            "video_url": "https://www.youtube.com/watch?v=k_BfC4LwXjI",
+            "is_live": true,
+            "darshan_time": "06:00 AM"
+        },
+        {
+            "id": "t_002",
+            "name": "Siddhivinayak",
+            "location": "Mumbai, MH",
+            "description": "The famous Ganesh temple in Mumbai.",
+            "image_asset": "assets/images/siddhivinayak.jpg",
+            "video_url": "https://www.youtube.com/watch?v=0h68_tH4jHs",
+            "is_live": false,
+            "darshan_time": "08:00 AM"
+        },
+        {
+            "id": "t_003",
+            "name": "Mahakaleshwar",
+            "location": "Ujjain, MP",
+            "description": "Jyotirlinga temple famous for Bhasma Aarti.",
+            "image_asset": "assets/images/mahakal.png",
+            "video_url": "https://www.youtube.com/watch?v=XhIIn_Oia7k",
+            "is_live": true,
+            "darshan_time": "04:00 AM"
+        },
+        {
+            "id": "t_004",
+            "name": "Tirupati Balaji",
+            "location": "Tirumala, AP",
+            "description": "The richest temple in the world dedicated to Lord Venkateswara.",
+            "image_asset": "assets/images/tirupati.jpg",
+            "video_url": "https://www.youtube.com/watch?v=hZn_j-0GzPE",
+            "is_live": true,
+            "darshan_time": "07:00 AM"
+        },
+        {
+            "id": "t_005",
+            "name": "Golden Temple",
+            "location": "Amritsar, PB",
+            "description": "The holiest Gurdwara of Sikhism.",
+            "image_asset": "assets/images/golden.jpg",
+            "video_url": "https://www.youtube.com/watch?v=na-XjMhM56Y",
+            "is_live": true,
+            "darshan_time": "03:00 AM"
+        },
+        {
+            "id": "t_shrinathji",
+            "name": "Shrinathji Temple",
+            "location": "Nathdwara, RJ",
+            "description": "Principal shrine of Shrinathji, a form of Lord Krishna.",
+            "image_asset": "assets/images/shrinathji.png",
+            "video_url": "https://www.youtube.com/watch?v=P84TzW4F_O0",
+            "is_live": true,
+            "darshan_time": "07:00 AM"
+        },
+        {
+            "id": "t_ram_mandir",
+            "name": "Ayodhya Ram Mandir",
+            "location": "Ayodhya, UP",
+            "description": "The grand temple dedicated to Lord Ram at his birthplace.",
+            "image_asset": "assets/images/ayodhya.png",
+            "video_url": "https://www.youtube.com/watch?v=tK4Iq9oR7_U",
+            "is_live": true,
+            "darshan_time": "06:30 AM"
+        }
+    ]
+}
